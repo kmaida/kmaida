@@ -14,25 +14,31 @@
 * _(Former) Zoologist: [Animal Behavior](https://link.springer.com/article/10.1007/s00265-010-1047-4) & Neurobiology_
 * _(Former) Head of Developer Relations at [Auth0](https://auth0.com)_
 
-## 💼 I do:
+## 💼 I Do:
 
-* Developer relations leadership and strategy
+* Developer relations leadership, management, & strategy
 * International speaking & emceeing
 * Tech community organizing
 * Mentorship & sponsorship
-* Internal workflow & dev tooling
+
+## 🏗 I Build:
+
+* Full-stack JavaScript / TypeScript experiences
+* Operations / automation workflows and tooling
+* Developer community programs and initiatives
 
 ## 📨 Contact
 
 * GitHub: [kmaida](https://github.com/kmaida)
 * Twitter: [@KimMaida](https://twitter.com/KimMaida)
-* Email: [kim@kmaida.io](mailto:kim@kmaida.io)
+* LinkedIn: [kimmaida](https://linkedin.com/in/kimmaida)
+* Email: [kim@gatsbyjs.com](mailto:kim@gatsbyjs.com)
 
 _If you'd like me to emcee, keynote, present a session, or run a workshop at an event you organize, please contact me on Twitter or by email._
 
 ## 🗓 Events
 
-Upcoming and past events / workshops / podcasts / speaking engagements:
+Upcoming and past events:
 
 ### 2020
 
