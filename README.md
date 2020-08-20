@@ -2,7 +2,6 @@
 
 ## 📇 I am:
 
-* [Director of Developer Relations & Community](https://www.gatsbyjs.com/about/) [@gatsbyjs](https://github.com/gatsbyjs/gatsby)
 * [Google Developer Expert](https://developers.google.cn/community/experts/directory/profile/profile-kim_maida) (Security, Privacy, Payments, & Identity; formerly Angular & Web Technologies)
 * [Microsoft MVP Award](https://mvp.microsoft.com/en-us/PublicProfile/5003696) (Developer Technologies)
 * [Auth0 Ambassador](https://auth0.com/ambassador-program)
