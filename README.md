@@ -2,7 +2,7 @@
 
 ## 📇 I am:
 
-* [VP of Developer Marketing at Nrwl](https://nrwl.io)
+* [Vice President of Developer Marketing at Nrwl](https://nrwl.io)
 * [Google Developer Expert](https://developers.google.cn/community/experts/directory/profile/profile-kim_maida) (Security, Privacy, Payments, & Identity;  Angular & Web Technologies)
 * [Microsoft MVP Award](https://mvp.microsoft.com/en-us/PublicProfile/5003696) (Developer Technologies)
 * [Auth0 Ambassador](https://auth0.com/ambassador-program)
