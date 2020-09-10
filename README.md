@@ -11,8 +11,8 @@
 * [Blogger](https://dev.to/kimmaida/)
 * [Casually, Occasionally Artistic](https://www.deviantart.com/kimmaida)
 * _(Former) Zoologist: [Animal Behavior](https://link.springer.com/article/10.1007/s00265-010-1047-4) & Neurobiology_
-* _(Former) Head of Developer Relations at [Auth0](https://auth0.com)_
 * _(Former) Director of Developer Relations & Community at [Gatsby](https://gatsbyjs.com)_
+* _(Former) Head of Developer Relations at [Auth0](https://auth0.com)_
 
 ## 💼 I Do:
 
@@ -32,7 +32,7 @@
 * GitHub: [kmaida](https://github.com/kmaida)
 * Twitter: [@KimMaida](https://twitter.com/KimMaida)
 * LinkedIn: [kimmaida](https://linkedin.com/in/kimmaida)
-* Email: [kim@gatsbyjs.com](mailto:kim@gatsbyjs.com)
+* Email: [kim@nrwl.io](mailto:kim@nrwl.io)
 
 _If you'd like me to emcee, keynote, present a session, or run a workshop at an event you organize, please contact me on Twitter or by email._
 
@@ -48,8 +48,7 @@ Upcoming and past events:
 * [THIS.dot Monthly Mentoring: Women in Tech](https://www.thisdot.co/events/monthly-mentoring-women-in-tech-april) (April 22): mentor
 * [Ladybug Podcast](https://ladybug.dev) (May 18): [guest](https://www.ladybug.dev/episodes/developer-communities)
 * [VueDC Meetup](https://www.vuedc.io/) (June 17): [speaker](https://www.meetup.com/Vue-DC/events/271022239/)
-* [Real Talk JavaScript](https://realtalkjavascript.simplecast.com/) (TBD): guest
-* [Open Core Summit 2020](https://ti.to/OpenCoreSummitt/open-core-summit-2020/en) (November 4-6): speaker
+* [Real Talk JavaScript](https://realtalkjavascript.simplecast.com/) (August 4): [guest](https://realtalkjavascript.simplecast.com/episodes/episode-95-working-in-developer-relations-with-kim-maida)
 
 ### 2019
 
