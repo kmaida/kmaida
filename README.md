@@ -42,6 +42,10 @@ _If you'd like me to emcee, keynote, present a session, or run a workshop at an 
 
 Upcoming and past events:
 
+### 2021
+
+* [TECH(K)NOW Day 2021](https://www.techknowday.com/) (Remote - March 8): speaker
+
 ### 2020
 
 * [CodeMash 2020](https://www.codemash.org/) (Sandusky, OH - January 8-10): speaker, sponsor
