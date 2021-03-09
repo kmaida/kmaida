@@ -9,7 +9,7 @@
 * Google Women Techmakers Ambassador
 * [Full-stack JavaScript Engineer](https://github.com/kmaida)
 * [Blogger](https://dev.to/kimmaida/)
-* [Casually, Occasionally Artistic](https://instagram.com/mihi.mini.studio)
+* [Miniaturist](https://instagram.com/mihi.mini.studio)
 * _(Former) Zoologist: [Animal Behavior](https://link.springer.com/article/10.1007/s00265-010-1047-4) & Neurobiology_
 * _(Former) [Technical Writer](https://auth0.com/blog/authors/kim-maida/)_
 * _(Former) Director of Developer Relations & Community at [Gatsby](https://gatsbyjs.com)_
@@ -34,7 +34,7 @@
 * GitHub: [kmaida](https://github.com/kmaida)
 * Twitter: [@KimMaida](https://twitter.com/KimMaida)
 * LinkedIn: [kimmaida](https://linkedin.com/in/kimmaida)
-* Email: [kim@nrwl.io](mailto:kim@nrwl.io)
+* Email: [kim@kmaida.io](mailto:kim@kmaida.io)
 
 _If you'd like me to emcee, keynote, present a session, or run a workshop at an event you organize, please contact me on Twitter or by email._
 
