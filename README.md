@@ -9,7 +9,7 @@
 * Google Women Techmakers Ambassador
 * [Full-stack JavaScript Engineer](https://github.com/kmaida)
 * [Blogger](https://dev.to/kimmaida/)
-* [Miniaturist](https://instagram.com/mihi.mini.studio)
+* [Artist and Miniaturist](https://instagram.com/mihi.mini.studio)
 * _(Former) Zoologist: [Animal Behavior](https://link.springer.com/article/10.1007/s00265-010-1047-4) & Neurobiology_
 * _(Former) [Technical Writer](https://auth0.com/blog/authors/kim-maida/)_
 * _(Former) Director of Developer Relations & Community at [Gatsby](https://gatsbyjs.com)_
