@@ -2,16 +2,17 @@
 
 ## 📇 I am:
 
-* [Vice President of Developer Marketing at Nrwl](https://nrwl.io)
+* [VP of Developer Relations at Ionic](https://ionic.io)
 * [Google Developer Expert](https://developers.google.cn/community/experts/directory/profile/profile-kim_maida) (Security, Privacy, Payments, & Identity;  Angular & Web Technologies)
 * [Microsoft MVP Award](https://mvp.microsoft.com/en-us/PublicProfile/5003696) (Developer Technologies)
 * [Auth0 Ambassador](https://auth0.com/ambassador-program)
 * Google Women Techmakers Ambassador
 * [Full-stack JavaScript Engineer](https://github.com/kmaida)
 * [Blogger](https://dev.to/kimmaida/)
-* [Artist and Miniaturist](https://instagram.com/mihi.mini.studio)
+* [Miniaturist & Keycap Maker](https://mihi-mini.studio)
 * _(Former) Zoologist: [Animal Behavior](https://link.springer.com/article/10.1007/s00265-010-1047-4) & Neurobiology_
 * _(Former) [Technical Writer](https://auth0.com/blog/authors/kim-maida/)_
+* _(Former) VP of Developer Marketing at [Nrwl](https://nrwl.io)_
 * _(Former) Director of Developer Relations & Community at [Gatsby](https://gatsbyjs.com)_
 * _(Former) Head of Developer Relations at [Auth0](https://auth0.com)_
 
@@ -27,12 +28,14 @@
 
 * Full-stack JavaScript / TypeScript experiences
 * Operations / automation workflows and tooling
+* Developer relations teams and strategy
 * Developer community programs and initiatives
 
 ## 📨 Contact
 
 * GitHub: [kmaida](https://github.com/kmaida)
 * Twitter: [@KimMaida](https://twitter.com/KimMaida)
+* Instagram: [@mihi.mini.studio](https://instagram.com/mihi.mini.studio)
 * LinkedIn: [kimmaida](https://linkedin.com/in/kimmaida)
 * Email: [kim@kmaida.io](mailto:kim@kmaida.io)
 
