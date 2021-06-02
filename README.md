@@ -2,14 +2,14 @@
 
 ## 📇 I am:
 
-* [VP of Developer Relations at Ionic](https://ionic.io)
+* [VP of Developer Relations at Ionic](https://ionic.io/about)
 * [Google Developer Expert](https://developers.google.cn/community/experts/directory/profile/profile-kim_maida) (Security, Privacy, Payments, & Identity;  Angular & Web Technologies)
 * [Microsoft MVP Award](https://mvp.microsoft.com/en-us/PublicProfile/5003696) (Developer Technologies)
 * [Auth0 Ambassador](https://auth0.com/ambassador-program)
 * Google Women Techmakers Ambassador
 * [Full-stack JavaScript Engineer](https://github.com/kmaida)
 * [Blogger](https://dev.to/kimmaida/)
-* [Miniaturist & Keycap Maker](https://mihi-mini.studio)
+* [Miniature Artist & Keycap Maker](https://mihi-mini.studio)
 * _(Former) Zoologist: [Animal Behavior](https://link.springer.com/article/10.1007/s00265-010-1047-4) & Neurobiology_
 * _(Former) [Technical Writer](https://auth0.com/blog/authors/kim-maida/)_
 * _(Former) VP of Developer Marketing at [Nrwl](https://nrwl.io)_
@@ -18,11 +18,10 @@
 
 ## 💼 I Do:
 
-* Executive technical marketing leadership & strategy
-* Developer relations leadership, management, & strategy
+* Executive Developer Relations leadership, management, & strategy
 * International speaking & emceeing
 * Tech community organizing
-* Mentorship & sponsorship
+* Career mentorship & sponsorship
 
 ## 🏗 I Build:
 
