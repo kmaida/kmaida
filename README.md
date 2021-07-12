@@ -47,6 +47,7 @@ Upcoming and past events:
 ### 2021
 
 * [TECH(K)NOW Day 2021](https://www.techknowday.com/) (Remote - March 8): speaker
+* [Refactr.TECH 2021](https://www.refactr.tech/) (Remote - August 18-20): speaker
 
 ### 2020
 
