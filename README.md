@@ -49,6 +49,8 @@ Upcoming and past events:
 * [TECH(K)NOW Day 2021](https://www.techknowday.com/) (Remote - March 8): speaker
 * [PodRocket Podcast](https://podrocket.logrocket.com/) (July 13): [guest](https://podrocket.logrocket.com/devrel-and-community-management)
 * [Refactr.TECH 2021](https://www.refactr.tech/) (Remote - August 18-20): speaker
+* [DevRelCon 2021](https://2021.devrel.net/) (Remote - November 8-10): [keynote speaker](https://developerrelations.com/dev-rel/forging-your-career-in-devrel-advocate-to-exec)
+* [Safe 2021](https://webdirections.org/safe/) (Remote - December 10): speaker
 
 ### 2020
 
