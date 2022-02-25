@@ -3,12 +3,12 @@
 ## 📇 I am:
 
 * [VP of Developer Relations at Ionic](https://ionic.io/about)
-* [Google Developer Expert](https://developers.google.cn/community/experts/directory/profile/profile-kim_maida) (Security, Privacy, Payments, & Identity;  Angular & Web Technologies)
+* [Google Developer Expert](https://developers.google.cn/community/experts/directory/profile/profile-kim_maida) (Security, Privacy, Payments, & Identity;  Web Technologies)
 * [Microsoft MVP Award](https://mvp.microsoft.com/en-us/PublicProfile/5003696) (Developer Technologies)
 * [Auth0 Ambassador](https://auth0.com/ambassador-program)
 * Google Women Techmakers Ambassador
 * [Full-stack JavaScript Engineer](https://github.com/kmaida)
-* [Blogger](https://dev.to/kimmaida/)
+* [Blogger](https://maida.kim)
 * [Miniature Artist & Keycap Maker](https://mihi-mini.studio)
 * _(Former) Zoologist: [Animal Behavior](https://link.springer.com/article/10.1007/s00265-010-1047-4) & Neurobiology_
 * _(Former) [Technical Writer](https://auth0.com/blog/authors/kim-maida/)_
@@ -18,16 +18,16 @@
 
 ## 💼 I Do:
 
-* Executive Developer Relations leadership, management, & strategy
+* Executive Developer Marketing leadership, management, partnership, & strategy
 * International speaking & emceeing
-* Tech community organizing
+* Tech community management
 * Career mentorship & sponsorship
 
 ## 🏗 I Build:
 
 * Full-stack JavaScript / TypeScript experiences
-* Operations / automation workflows and tooling
-* Developer relations teams and strategy
+* Operations / automation workflows and tooling / Slack app engineering
+* Developer marketing teams
 * Developer community programs and initiatives
 
 ## 📨 Contact
@@ -43,6 +43,10 @@ _If you'd like me to emcee, keynote, present a session, or run a workshop at an 
 ## 🗓 Events
 
 Upcoming and past events:
+
+### 2022
+
+* [Remixed 2021](https://webdirections.org/remixed/) (Remote - January 14): speaker
 
 ### 2021
 
