@@ -7,7 +7,7 @@
 * [Microsoft MVP Award](https://mvp.microsoft.com/en-us/PublicProfile/5003696) (Developer Technologies)
 * [Auth0 Ambassador](https://auth0.com/ambassador-program)
 * Google Women Techmakers Ambassador
-* [Full-stack JavaScript Engineer](https://github.com/kmaida)
+* [Full-stack JavaScript Engineer & Slack App Builder](https://github.com/kmaida)
 * [Blogger](https://maida.kim)
 * [Miniature Artist & Keycap Maker](https://mihi-mini.studio)
 * _(Former) Zoologist: [Animal Behavior](https://link.springer.com/article/10.1007/s00265-010-1047-4) & Neurobiology_
@@ -27,7 +27,7 @@
 
 * Full-stack JavaScript / TypeScript experiences
 * Operations / automation workflows and tooling / Slack app engineering
-* Developer marketing teams
+* Developer Marketing and Developer Relations teams
 * Developer community programs and initiatives
 
 ## 📨 Contact
@@ -49,7 +49,7 @@ Upcoming and past events:
 * [Remixed 2022](https://webdirections.org/remixed/) (Remote - January 14): speaker
 * [TECH(K)NOW Day 2022](https://www.techknowday.com/) (Remote - March 8): [VIP interview](https://www.youtube.com/watch?v=Ta6Vw9nVIDA)
 * *Upcoming* [Stir Trek 2022](https://stirtrek.com/) (Columbus, OH - May 6): speaker
-* *Upcoming* [ng-conf 2022](https://2022.ng-conf.org/) (Salt Lake City, UT - September 1): [speaker](https://2022.ng-conf.org/person/kim-maida/)
+* *Upcoming* [ng-conf 2022](https://2022.ng-conf.org/) (Salt Lake City, UT - August 31-September 3): [speaker](https://2022.ng-conf.org/person/kim-maida/)
 
 ### 2021
 
