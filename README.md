@@ -48,7 +48,8 @@ Upcoming and past events:
 
 * [Remixed 2022](https://webdirections.org/remixed/) (Remote - January 14): speaker
 * [TECH(K)NOW Day 2022](https://www.techknowday.com/) (Remote - March 8): [VIP interview](https://www.youtube.com/watch?v=Ta6Vw9nVIDA)
-* [Stir Trek 2022](https://stirtrek.com/) (Columbus, OH - May 6): speaker
+* *Upcoming* [Stir Trek 2022](https://stirtrek.com/) (Columbus, OH - May 6): speaker
+* *Upcoming* [ng-conf 2022](https://2022.ng-conf.org/) (Salt Lake City, UT - September 1): [speaker](https://2022.ng-conf.org/person/kim-maida/)
 
 ### 2021
 
