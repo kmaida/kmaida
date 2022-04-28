@@ -32,13 +32,12 @@
 
 ## 📨 Contact
 
-* GitHub: [kmaida](https://github.com/kmaida)
-* Twitter: [@KimMaida](https://twitter.com/KimMaida)
-* Instagram: [@mihi.mini.studio](https://instagram.com/mihi.mini.studio)
 * LinkedIn: [kimmaida](https://linkedin.com/in/kimmaida)
-* Email: [kim@kmaida.io](mailto:kim@kmaida.io)
+* Twitter: [@KimMaida](https://twitter.com/KimMaida)
+* Polywork: [kimmaida](https://www.polywork.com/kimmaida)
+* Instagram: [@mihi.mini.studio](https://instagram.com/mihi.mini.studio)
 
-_If you'd like me to emcee, keynote, present a session, or run a workshop at an event you organize, please contact me on Twitter or by email._
+_If you'd like me to emcee, keynote, present a session, join a panel, or run a workshop at an event you organize, please contact me on Twitter or LinkedIn._
 
 ## 🗓 Events
 
