@@ -18,10 +18,11 @@
 
 ## 💼 I Do:
 
-* Executive Developer Marketing leadership, management, partnership, & strategy
+* Executive Developer Relations leadership, strategy, management, & partnership
 * International speaking & emceeing
-* Tech community management
+* Community management
 * Career mentorship & sponsorship
+* [Blogging on developer relations, security & identity, career](https://maida.kim)
 
 ## 🏗 I Build:
 
