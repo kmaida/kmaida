@@ -42,7 +42,7 @@ _If you'd like me to emcee, keynote, present a session, join a panel, or run a w
 
 ## 🗓 Events
 
-Upcoming and past events:
+Here are my upcoming and past speaking events:
 
 ### 2022
 
