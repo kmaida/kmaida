@@ -7,6 +7,7 @@
 * [Microsoft MVP Award](https://mvp.microsoft.com/en-us/PublicProfile/5003696) (Developer Technologies)
 * [Auth0 Ambassador](https://auth0.com/ambassador-program)
 * Google Women Techmakers Ambassador
+* Keynote Speaker
 * [Full-stack JavaScript Engineer & Slack App Builder](https://github.com/kmaida)
 * [Blogger](https://maida.kim)
 * [Miniature Artist & Keycap Maker](https://mihi-mini.studio)
@@ -19,7 +20,7 @@
 ## 💼 I Do:
 
 * Executive Developer Relations leadership, strategy, management, & partnership
-* International speaking & emceeing
+* International speaking, keynote speaking, & emceeing
 * Community management
 * Career mentorship & sponsorship
 * [Blogging on developer relations, security & identity, career](https://maida.kim)
