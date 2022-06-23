@@ -2,9 +2,9 @@
 
 ## 📇 I am:
 
-* [VP of Developer Relations at Ionic](https://ionic.io/about)
-* [Google Developer Expert](https://developers.google.cn/community/experts/directory/profile/profile-kim_maida) (Security, Privacy, Payments, & Identity;  Web Technologies)
-* [Microsoft MVP Award](https://mvp.microsoft.com/en-us/PublicProfile/5003696) (Developer Technologies)
+* [Vice President of Developer Relations at Ionic](https://ionic.io/about)
+* [Google Developer Expert](https://developers.google.cn/community/experts/directory/profile/profile-kim_maida)
+* [Microsoft MVP Award](https://mvp.microsoft.com/en-us/PublicProfile/5003696)
 * [Auth0 Ambassador](https://auth0.com/ambassador-program)
 * Google Women Techmakers Ambassador
 * Keynote Speaker
@@ -15,15 +15,16 @@
 * _(Former) [Technical Writer](https://auth0.com/blog/authors/kim-maida/)_
 * _(Former) VP of Developer Marketing at [Nrwl](https://nrwl.io)_
 * _(Former) Director of Developer Relations & Community at [Gatsby](https://gatsbyjs.com)_
-* _(Former) Head of Developer Relations at [Auth0](https://auth0.com)_
+* _(Former) Head of Global Developer Relations at [Auth0](https://auth0.com)_
 
 ## 💼 I Do:
 
-* Executive Developer Relations leadership, strategy, management, & partnership
+* Executive Developer Relations leadership, strategy, team & people management, partnership
 * International speaking, keynote speaking, & emceeing
 * Community management
 * Career mentorship & sponsorship
-* [Blogging on developer relations, security & identity, career](https://maida.kim)
+* [Blogging on developer relations, security & identity, career growth](https://maida.kim)
+* [DevRelBeing Newsletter](https://www.getrevue.co/profile/devrelbeing) authorship
 
 ## 🏗 I Build:
 
@@ -39,7 +40,7 @@
 * Polywork: [kimmaida](https://www.polywork.com/kimmaida)
 * Instagram: [@mihi.mini.studio](https://instagram.com/mihi.mini.studio)
 
-_If you'd like me to emcee, keynote, present a session, join a panel, or run a workshop at an event you organize, please contact me on Twitter or LinkedIn._
+_If you'd like me to keynote, join a panel, or run a workshop at an event you organize, please contact me on Twitter or LinkedIn._
 
 ## 🗓 Events
 
@@ -54,6 +55,7 @@ Here are my upcoming and past speaking events:
 * *Upcoming* [ng-conf 2022](https://2022.ng-conf.org/) (Salt Lake City, UT - August 31-September 3): [speaker](https://2022.ng-conf.org/person/kim-maida/)
 * *Upcoming* [REFACTR.TECH 2022](https://www.refactr.tech/) (Atlanta, GA - September 14-16): speaker
 * *Upcoming* [Camnundacon 2022](https://www.camundacon.com/) (Berlin, Germany - October 5-6): keynote speaker
+* *Upcoming* [All Things Open 2022](https://2022.allthingsopen.org) (Raleigh, NC - October 30-November 2): [speaker](https://2022.allthingsopen.org/first-50-speakers/)
 
 ### 2021
 
