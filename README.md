@@ -53,7 +53,7 @@ Here are my upcoming and past speaking events:
 * *Upcoming* [KCDC 2022](https://www.kcdc.info/) (Kansas City, MO - August 8-10): speaker
 * *Upcoming* [ng-conf 2022](https://2022.ng-conf.org/) (Salt Lake City, UT - August 31-September 3): [speaker](https://2022.ng-conf.org/person/kim-maida/)
 * *Upcoming* [REFACTR.TECH 2022](https://www.refactr.tech/) (Atlanta, GA - September 14-16): speaker
-* *Upcoming* [Camnundacon 2022](https://www.camundacon.com/) (Berlin, Germany - October 5-6): keynote speaker
+* *Upcoming* [Camundacon 2022](https://www.camundacon.com/) (Berlin, Germany - October 5-6): keynote speaker
 * *Upcoming* [All Things Open 2022](https://2022.allthingsopen.org) (Raleigh, NC - October 30-November 2): [speaker](https://2022.allthingsopen.org/first-50-speakers/)
 
 ### 2021
