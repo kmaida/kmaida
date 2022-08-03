@@ -12,6 +12,7 @@
 * [Miniature Artist & Keycap Maker](https://mihi-mini.studio)
 * _(Former) Zoologist: [Animal Behavior](https://link.springer.com/article/10.1007/s00265-010-1047-4) & Neurobiology_
 * _(Former) [Technical Writer](https://auth0.com/blog/authors/kim-maida/)_
+* _(Former) VP of Developer Relations at [Ionic](https://ionic.io)_
 * _(Former) VP of Developer Marketing at [Nrwl](https://nrwl.io)_
 * _(Former) Director of Developer Relations & Community at [Gatsby](https://gatsbyjs.com)_
 * _(Former) Head of Global Developer Relations at [Auth0](https://auth0.com)_
