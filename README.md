@@ -2,7 +2,7 @@
 
 ## 📇 I am:
 
-* [Vice President of Developer Relations at Ionic](https://ionic.io/about)
+* Vice President of Developer Relations
 * [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-kim-maida)
 * [Auth0 Ambassador](https://auth0.com/ambassador-program)
 * Google Women Techmakers Ambassador
