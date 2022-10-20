@@ -3,7 +3,7 @@
 ## 📇 I am:
 
 * Vice President of Developer Relations
-* [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-kim-maida)
+* Google Developer Expert (Security, Privacy, Payments, & Identity _and_ Angular)
 * [Auth0 Ambassador](https://auth0.com/ambassador-program)
 * Google Women Techmakers Ambassador
 * Keynote Speaker
