@@ -33,6 +33,7 @@
 * Developer Marketing and Developer Relations teams
 * Developer community programs and initiatives
 * [Developer Empowerment flywheel](https://maida.kim/2022/10/how-to-drive-developer-growth-and-engagement/) strategy for developer growth & engagement
+* Elegant, informative presentations and keynote speeches
 
 ## 📨 Contact
 
