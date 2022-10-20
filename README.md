@@ -51,11 +51,12 @@ Here are my upcoming and past speaking events:
 * [Remixed 2022](https://webdirections.org/remixed/) (Remote - January 14): speaker
 * [TECH(K)NOW Day 2022](https://www.techknowday.com/) (Remote - March 8): [VIP interview](https://www.youtube.com/watch?v=Ta6Vw9nVIDA)
 * [Stir Trek 2022](https://stirtrek.com/) (Columbus, OH - May 6): [speaker](https://www.youtube.com/watch?v=pWV0h6Yr4yw)
-* *Upcoming* [KCDC 2022](https://www.kcdc.info/) (Kansas City, MO - August 8-10): speaker
-* *Upcoming* [ng-conf 2022](https://2022.ng-conf.org/) (Salt Lake City, UT - August 31-September 3): [speaker](https://2022.ng-conf.org/person/kim-maida/)
-* *Upcoming* [REFACTR.TECH 2022](https://www.refactr.tech/) (Atlanta, GA - September 14-16): speaker
-* *Upcoming* [Camundacon 2022](https://www.camundacon.com/) (Berlin, Germany - October 5-6): keynote speaker
+* [KCDC 2022](https://www.kcdc.info/) (Kansas City, MO - August 8-10): speaker
+* [ng-conf 2022](https://2022.ng-conf.org/) (Salt Lake City, UT - August 31-September 3): [speaker](https://2022.ng-conf.org/person/kim-maida/)
+* [REFACTR.TECH 2022](https://www.refactr.tech/) (Atlanta, GA - September 14-16): speaker
+* [Camundacon 2022](https://www.camundacon.com/) (Berlin, Germany - October 5-6): keynote speaker
 * *Upcoming* [All Things Open 2022](https://2022.allthingsopen.org) (Raleigh, NC - October 30-November 2): [speaker](https://2022.allthingsopen.org/first-50-speakers/)
+* *Upcoming* [Build Stuff 2022](https://www.buildstuff.events/) (Vilnius, Lithuania - November 9-11): [speaker](https://www.buildstuff.events/speakers)
 
 ### 2021
 
