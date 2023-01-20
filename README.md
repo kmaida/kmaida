@@ -10,7 +10,7 @@
 * [Full-stack JavaScript Engineer & Slack App Builder](https://github.com/kmaida)
 * [Blogger](https://maida.kim)
 * [Miniature Artist & Keycap Maker](https://mihi-mini.studio)
-* _(Former) Vice President of Developer Relations
+* _(Former) Vice President of Developer Relations_
 * _(Former) Zoologist: [Animal Behavior](https://link.springer.com/article/10.1007/s00265-010-1047-4) & Neurobiology_
 * _(Former) [Technical Writer](https://auth0.com/blog/authors/kim-maida/)_
 * _(Former) VP of Developer Relations at [Ionic](https://ionic.io)_
