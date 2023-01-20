@@ -2,14 +2,15 @@
 
 ## 📇 I am:
 
-* Vice President of Developer Relations
-* Google Developer Expert (Security, Privacy, Payments, & Identity _and_ Angular)
+* Developer Content Strategy Leadership
+* Google Developer Expert (Identity _and_ Angular)
 * [Auth0 Ambassador](https://auth0.com/ambassador-program)
 * Google Women Techmakers Ambassador
 * Keynote Speaker
 * [Full-stack JavaScript Engineer & Slack App Builder](https://github.com/kmaida)
 * [Blogger](https://maida.kim)
 * [Miniature Artist & Keycap Maker](https://mihi-mini.studio)
+* _(Former) Vice President of Developer Relations
 * _(Former) Zoologist: [Animal Behavior](https://link.springer.com/article/10.1007/s00265-010-1047-4) & Neurobiology_
 * _(Former) [Technical Writer](https://auth0.com/blog/authors/kim-maida/)_
 * _(Former) VP of Developer Relations at [Ionic](https://ionic.io)_
@@ -19,7 +20,7 @@
 
 ## 💼 I Do:
 
-* Executive Developer Relations leadership, strategy, team & people management, partnership
+* Executive Developer Experience leadership, strategy, team & people management, partnership
 * International speaking, keynote speaking, & emceeing
 * Community management
 * Career mentorship & sponsorship
@@ -48,6 +49,10 @@ _If you'd like me to keynote, join a panel, or run a workshop at an event you or
 
 Here are my upcoming and past speaking events:
 
+### 2023
+
+* [DevRelCon Yokohama 2023](https://yokohama-2023.devrelcon.dev/) (March 10-11): speaker
+
 ### 2022
 
 * [Remixed 2022](https://webdirections.org/remixed/) (Remote - January 14): speaker
@@ -57,8 +62,8 @@ Here are my upcoming and past speaking events:
 * [ng-conf 2022](https://2022.ng-conf.org/) (Salt Lake City, UT - August 31-September 3): [speaker](https://2022.ng-conf.org/person/kim-maida/)
 * [REFACTR.TECH 2022](https://www.refactr.tech/) (Atlanta, GA - September 14-16): speaker
 * [Camundacon 2022](https://www.camundacon.com/) (Berlin, Germany - October 5-6): keynote speaker
-* *Upcoming* [All Things Open 2022](https://2022.allthingsopen.org) (Raleigh, NC - October 30-November 2): [speaker](https://2022.allthingsopen.org/first-50-speakers/)
-* *Upcoming* [Build Stuff 2022](https://www.buildstuff.events/) (Vilnius, Lithuania - November 9-11): [speaker](https://www.buildstuff.events/speakers)
+* [All Things Open 2022](https://2022.allthingsopen.org) (Raleigh, NC - October 30-November 2): [speaker](https://2022.allthingsopen.org/first-50-speakers/)
+* [Build Stuff 2022](https://www.buildstuff.events/) (Vilnius, Lithuania - November 9-11): [speaker](https://www.buildstuff.events/speakers)
 
 ### 2021
 
