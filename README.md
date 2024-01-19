@@ -2,7 +2,7 @@
 
 ## 📇 I am:
 
-* Developer Content Strategy Leadership
+* Developer Relations Leadership
 * Google Developer Expert (Identity _and_ Angular)
 * [Auth0 Ambassador](https://auth0.com/ambassador-program)
 * Google Women Techmakers Ambassador
@@ -10,7 +10,7 @@
 * [Full-stack JavaScript Engineer & Slack App Builder](https://github.com/kmaida)
 * [Blogger](https://maida.kim)
 * [Miniature Artist & Keycap Maker](https://mihi-mini.studio)
-* _(Former) Vice President of Developer Relations_
+* _(Former) Vice President of Developer Relations at [Cloudinary](https://cloudinary.com)_
 * _(Former) Zoologist: [Animal Behavior](https://link.springer.com/article/10.1007/s00265-010-1047-4) & Neurobiology_
 * _(Former) [Technical Writer](https://auth0.com/blog/authors/kim-maida/)_
 * _(Former) VP of Developer Relations at [Ionic](https://ionic.io)_
@@ -33,25 +33,26 @@
 * Operations / automation workflows and tooling / Slack app engineering
 * Developer Marketing and Developer Relations teams
 * Developer community programs and initiatives
+* [Keystone DevRel Metrics](https://maida.kim/how-to-measure-the-value-of-developer-relations/) framework for measuring the value of Developer Relations
 * [Developer Empowerment flywheel](https://maida.kim/2022/10/how-to-drive-developer-growth-and-engagement/) strategy for developer growth & engagement
 * Elegant, informative presentations and keynote speeches
 
 ## 📨 Contact
 
 * LinkedIn: [kimmaida](https://linkedin.com/in/kimmaida)
-* Twitter: [@KimMaida](https://twitter.com/KimMaida)
-* Polywork: [kimmaida](https://www.polywork.com/kimmaida)
+* Mastodon: [@KimMaida](https://hachyderm.io/@KimMaida)
 * Instagram: [@mihi.mini.studio](https://instagram.com/mihi.mini.studio)
 
-_If you'd like me to keynote, join a panel, or run a workshop at an event you organize, please contact me on Twitter or LinkedIn._
+_If you'd like me to keynote, join a panel, or run a workshop at an event you organize, please [get in touch](https://maida.kim/bio/)._
 
 ## 🗓 Events
 
-Here are my upcoming and past speaking events:
+Here are my past speaking events:
 
 ### 2023
 
 * [DevRelCon Yokohama 2023](https://yokohama-2023.devrelcon.dev/) (March 10-11): speaker
+* _(In late 2022, I accepted a role leading Developer Content Strategy at Okta. This role does not include public speaking as a responsibility.)_
 
 ### 2022
 
