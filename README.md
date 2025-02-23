@@ -8,6 +8,7 @@
 * [Full-stack JavaScript Engineer & Slack App Builder](https://github.com/kmaida)
 * [Blogger](https://maida.kim)
 * [Miniature Artist & Keycap Maker](https://mihi-mini.studio)
+* Senior Director, Developer Relations at [FusionAuth](https://fusionauth.io)
 * _(Former) Group Manager of Developer Content Strategy at [Okta](https://okta.com)_
 * _(Former) VP of Developer Relations at [Ionic](https://ionic.io)_
 * _(Former) VP of Developer Marketing at [Nrwl](https://nrwl.io)_
