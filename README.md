@@ -1,18 +1,15 @@
-# Kim Maida
+# [Kim Maida](https://maida.kim)
 
 ## 📇 I am:
 
 * Developer Relations Leadership
-* Google Developer Expert (Identity _and_ Angular)
+* Google Developer Expert (Identity)
 * [Auth0 Ambassador](https://auth0.com/ambassador-program)
-* Google Women Techmakers Ambassador
 * Keynote Speaker
 * [Full-stack JavaScript Engineer & Slack App Builder](https://github.com/kmaida)
 * [Blogger](https://maida.kim)
 * [Miniature Artist & Keycap Maker](https://mihi-mini.studio)
-* _(Former) Vice President of Developer Relations at [Cloudinary](https://cloudinary.com)_
-* _(Former) Zoologist: [Animal Behavior](https://link.springer.com/article/10.1007/s00265-010-1047-4) & Neurobiology_
-* _(Former) [Technical Writer](https://auth0.com/blog/authors/kim-maida/)_
+* _(Former) Group Manager of Developer Content Strategy at [Okta](https://okta.com)_
 * _(Former) VP of Developer Relations at [Ionic](https://ionic.io)_
 * _(Former) VP of Developer Marketing at [Nrwl](https://nrwl.io)_
 * _(Former) Director of Developer Relations & Community at [Gatsby](https://gatsbyjs.com)_
@@ -21,11 +18,11 @@
 ## 💼 I Do:
 
 * Executive Developer Experience leadership, strategy, team & people management, partnership
-* International speaking, keynote speaking, & emceeing
+* Identity & Access Management
+* Public speaking, keynote speaking, & emceeing
 * Community management
 * Career mentorship & sponsorship
 * [Blogging on developer relations, security & identity, career growth](https://maida.kim)
-* [DevRelBeing Newsletter](https://www.getrevue.co/profile/devrelbeing) authorship
 
 ## 🏗 I Build:
 
@@ -35,13 +32,13 @@
 * Developer community programs and initiatives
 * [Keystone DevRel Metrics](https://maida.kim/how-to-measure-the-value-of-developer-relations/) framework for measuring the value of Developer Relations
 * [Developer Empowerment flywheel](https://maida.kim/2022/10/how-to-drive-developer-growth-and-engagement/) strategy for developer growth & engagement
-* Elegant, informative presentations and keynote speeches
+* Elegant, informative presentations distilling complex topics and keynote speeches
 
 ## 📨 Contact
 
 * LinkedIn: [kimmaida](https://linkedin.com/in/kimmaida)
+* Bluesky: [@maida.kim](https://bsky.app/profile/maida.kim)
 * Mastodon: [@KimMaida](https://hachyderm.io/@KimMaida)
-* Instagram: [@mihi.mini.studio](https://instagram.com/mihi.mini.studio)
 
 _If you'd like me to keynote, join a panel, or run a workshop at an event you organize, please [get in touch](https://maida.kim/bio/)._
 
