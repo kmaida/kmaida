@@ -4,7 +4,6 @@
 
 * Developer Relations Leadership
 * Google Developer Expert (Identity)
-* [Auth0 Ambassador](https://auth0.com/ambassador-program)
 * Keynote Speaker
 * [Full-stack JavaScript Engineer & Slack App Builder](https://github.com/kmaida)
 * [Blogger](https://maida.kim)
@@ -12,7 +11,6 @@
 * _(Former) Group Manager of Developer Content Strategy at [Okta](https://okta.com)_
 * _(Former) VP of Developer Relations at [Ionic](https://ionic.io)_
 * _(Former) VP of Developer Marketing at [Nrwl](https://nrwl.io)_
-* _(Former) Director of Developer Relations & Community at [Gatsby](https://gatsbyjs.com)_
 * _(Former) Head of Global Developer Relations at [Auth0](https://auth0.com)_
 
 ## 💼 I Do:
