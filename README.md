@@ -11,7 +11,7 @@
 * Senior Director, Developer Relations at [FusionAuth](https://fusionauth.io)
 * _(Former) Group Manager of Developer Content Strategy at [Okta](https://okta.com)_
 * _(Former) VP of Developer Relations at [Ionic](https://ionic.io)_
-* _(Former) VP of Developer Marketing at [Nrwl](https://nrwl.io)_
+* _(Former) VP of Developer Marketing at [Nx](https://nx.dev)_
 * _(Former) Head of Global Developer Relations at [Auth0](https://auth0.com)_
 
 ## 💼 I Do:
