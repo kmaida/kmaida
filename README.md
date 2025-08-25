@@ -37,6 +37,7 @@
 
 * LinkedIn: [kimmaida](https://linkedin.com/in/kimmaida)
 * Bluesky: [@maida.kim](https://bsky.app/profile/maida.kim)
+* X: [@KimMaida](https://x.com/KimMaida)
 * Mastodon: [@KimMaida](https://hachyderm.io/@KimMaida)
 
 _If you'd like me to keynote, join a panel, or run a workshop at an event you organize, please [get in touch](https://maida.kim/bio/)._
